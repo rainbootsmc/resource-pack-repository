@@ -1,7 +1,7 @@
 {
-    "timestamp": 1678200457396,
+    "timestamp": 1678518639188,
     "hashes": {
-        "NORMAL": "70030e11b2394fd027c3d5def7f9d1367027ea3a",
-        "SLIM": "65c564b6983ecf980a7c76e04ae888c05999fe69"
+        "NORMAL_VANILLA": "3ac2e9b7488f8a13c10d96a25d3d66a48b03e2be",
+        "SLIM_VANILLA": "8bf3a52b74f980f0fe4e9c678f7663b0fce82213"
     }
 }

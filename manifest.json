@@ -1,9 +1,9 @@
 {
-    "timestamp": 1680064842598,
+    "timestamp": 1680178435961,
     "hashes": {
-        "NORMAL_VANILLA": "bf12ab0c80fa9ae914f443985c1b65e6936c0a3a",
-        "SLIM_VANILLA": "53cf7051b82f614dae73081ca4781cb99869e672",
-        "NORMAL_MOD": "2f6c70c7ae85861496ede1c80cc0823201978de4",
-        "SLIM_MOD": "07722d41716e588b7d83c265f1338a86bea6d6da"
+        "NORMAL_VANILLA": "f6fa785d557dda96a7cca76b31775f2a0c3b9a26",
+        "SLIM_VANILLA": "290abf0725eaebf07d71006ea9bd40df5c10049a",
+        "NORMAL_MOD": "0038a1abfcddb14a47ed1267e8139fc0c39a1c01",
+        "SLIM_MOD": "8672a90daf1d6679c2daee752665bed1eef808bd"
     }
 }
